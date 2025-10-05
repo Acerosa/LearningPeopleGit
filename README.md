@@ -1,2 +1,2 @@
 # LearningPeopleGit
-A rep for learning people exercises
+A rep for learning people exercises# Project Title
