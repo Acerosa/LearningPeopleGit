@@ -22,7 +22,7 @@ When the button is clicked, the message changes.
 1. Inside the **`src`** folder, create a folder named **`components`**.  
 2. Inside that folder, create a file name it something that makes sense i.e **MessageChanger**:
 
-![App Preview](public/images/message.png)
+![App Preview]([public/images/message.png](https://github.com/Acerosa/LearningPeopleGit/blob/main/message.png))
 ## Don't forget to export it
 ``` jsx
 export default MessageChanger;
