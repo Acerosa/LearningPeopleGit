@@ -24,11 +24,11 @@ When the button is clicked, the message changes.
 
 ![App Preview](https://raw.githubusercontent.com/Acerosa/LearningPeopleGit/main/message.png)
 ## Don't forget to export it
-![Export](https://raw.githubusercontent.com/Acerosa/LearningPeopleGit/blob/main/Export.png)
+![Export](https://raw.githubusercontent.com/Acerosa/LearningPeopleGit/main/Export.png)
 
 ### Use your component in App.jsx
 Import the component at the top of App.jsx:
-![Import](https://raw.githubusercontent.com/Acerosa/LearningPeopleGit/blob/main/import.png)
+![Import](https://raw.githubusercontent.com/Acerosa/LearningPeopleGit/main/import.png)
 
 ### 4️⃣ Run & test
 - Use **Preview**.  
