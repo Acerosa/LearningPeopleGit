@@ -24,28 +24,12 @@ When the button is clicked, the message changes.
 
 ![App Preview](https://raw.githubusercontent.com/Acerosa/LearningPeopleGit/main/message.png)
 ## Don't forget to export it
-``` jsx
-export default MessageChanger;
-```
+![Export](https://raw.githubusercontent.com/Acerosa/LearningPeopleGit/blob/main/Export.png)
 
 ### Use your component in App.jsx
 Import the component at the top of App.jsx:
+![Import](https://raw.githubusercontent.com/Acerosa/LearningPeopleGit/blob/main/import.png)
 
-``` jsx
-import MessageChanger from "./components/MessageChanger";
-
-const App = () => {
-  return (
-    <div>
-      <h1>🌟 React Lesson – Components</h1>
-      <MessageChanger />
-    </div>
-  );
-};
-
-export default App;
-
-```
 ### 4️⃣ Run & test
 - Use **Preview**.  
 - Verify that the button successfully changes the message when clicked.
