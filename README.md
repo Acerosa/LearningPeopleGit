@@ -52,7 +52,7 @@ export default App;
 
 ---
 
-## 💡 Bonus Challenges (Optional)
+## ➕ Bonus Challenges (Optional)
 
 Once your main component works, try these extensions to practise more advanced concepts.
 
@@ -75,7 +75,7 @@ Once your main component works, try these extensions to practise more advanced c
 
 ---
 
-## 🧠 Key Concepts You’re Practising
+## 📋 Key Concepts You’re Practising
 - Component creation and import  
 - React **state** (`useState`)  
 - Event handling (`onClick`)  
