@@ -31,3 +31,6 @@ export default function StudentForm() {
     </form>
   );
 }
+
+
+![Screenshot of app](images/input.png)
