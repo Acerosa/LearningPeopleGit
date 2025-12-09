@@ -55,6 +55,7 @@ Add these inside your component:
 ## Show Helpful Error Messages
 
 We display an error only when the rule is broken.
+
 ![Screenshot of app](images/error.png)
 
 
@@ -69,13 +70,16 @@ The button becomes enabled only when all rules pass.
 React prevents page refresh and lets you control what happens.
 
 form submission
+
 ![Screenshot of app](images/formsubmission.png)
 
 
 Attach it to the form:
+
 ![Screenshot of app](images/attachform.png)
 
 
 ### Final Complete Code
+
 ![Screenshot of app](images/full.png)
 
