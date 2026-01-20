@@ -146,8 +146,8 @@ Use the **starter code below** and complete the TODOs.
 
 ```jsx
 import { useState } from "react";
-import ThemePreview from "./ThemePreview";
-import ThemeToggle from "./ThemeToggle";
+// import ThemePreview from "./ThemePreview";
+// import ThemeToggle from "./ThemeToggle";
 
 const App = () =>  {
   // TODO:
@@ -161,18 +161,24 @@ const App = () =>  {
     <div>
       <h1>Theme Toggle Dashboard</h1>
 
-      {/* 
+      {
+/* 
         TODO:
         - Pass the current theme to ThemePreview
-      */}
-      <ThemePreview />
 
-      {/*
+         <ThemePreview />
+      */
+}
+      
+
+     { /*
         TODO:
         - Pass the current theme to ThemeToggle
         - Pass the toggle function to ThemeToggle
-      */}
-      <ThemeToggle />
+         <ThemeToggle />
+         */
+}
+ 
     </div>
   );
 }
@@ -180,6 +186,9 @@ const App = () =>  {
 export default App;
 
 ```
+![Import](https://raw.githubusercontent.com/Acerosa/LearningPeopleGit/LiftingStateDarkMode/app.png)
+
+-----
 
 ##### `src/ThemePreview.jsx`
 
@@ -204,7 +213,9 @@ const ThemePreview = (props) => {
 
 export default ThemePreview;
 ```
+![Import](https://raw.githubusercontent.com/Acerosa/LearningPeopleGit/LiftingStateDarkMode/ThemePreview.png)
 
+------
 ##### `src/ThemeToggle.jsx`
 
 ```jsx
@@ -226,4 +237,5 @@ const ThemeToggle = (props) => {
 
 export default ThemeToggle;
 ```
+![Import](https://raw.githubusercontent.com/Acerosa/LearningPeopleGit/LiftingStateDarkMode/ThemeToggle.png)
 
